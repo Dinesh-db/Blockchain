@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+##About
+
 This application is used to store the medical records in secure manner in blockchain.The person who have an access only those people can see your records otherwise they can't.This application can be used by both doctor and patients.For storing the medical records secure and safe in blockchain.The records can't be hackable.
 
 
